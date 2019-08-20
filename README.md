@@ -1,7 +1,7 @@
 # bank-search-rest-api
 A simple rest api that allows searching through an Indian banks database
 
-(That Indian banks database used is based on this repository: https://github.com/snarayanank2/indian_banks)
+(The Indian banks database used is based on this repository: https://github.com/snarayanank2/indian_banks)
 
 This api allows two types of searches for Indian banks:
 
